@@ -463,7 +463,7 @@ private $username; private $password; private $adm;
 
 		
 		if($this->email->send()){
-			$this->load->view('succes_send');
+			$this->load->view('succes_send',['email'=>$email]);
 		}
 		else{
 			show_error($this->email->print_debugger());
