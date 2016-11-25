@@ -20,7 +20,7 @@
   	<div class="row">
 			<div class="control-group" id="fields">
 				<div class="controls">
-					<form role="form" autocomplete="off" action="http://localhost/master/person/update_insert_data?id=<?php echo  $key->id; ?>" method="post">
+					<form role="form" autocomplete="off" action="http://ibgf.azurewebsites.net/index.php/person/update_insert_data?id=<?php echo  $key->id; ?>" method="post">
 						<div class="form-group">
 							<label for="inputnama">Nama Lengkap</label>
 							<input type="text" name="nama" placeholder="Nama Legkap" class="form-control" value="<?php echo $key->nama; ?>">
