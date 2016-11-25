@@ -64,9 +64,9 @@
 				<td><?php echo $post->alamat?> </td>
 			</tr>
 		</table>
-		<a href="http://localhost/master/person/send_email?id=<?php echo  $post->id; ?> &nama=<?php echo $post->nama; ?> &email=<?php echo $post->email; ?> " class="btn btn-success btn-lg"><span class="glyphicon glyphicon-download-alt"></span>&nbsp Cetak</a>
-		<a href="http://localhost/master/person/update_data_regis?id=<?php echo  $post->id; ?>" class="btn btn-warning btn-lg"><span class="glyphicon glyphicon-pencil"></span>&nbsp Edit</a>
-		<a href="http://localhost/master/main/home_page" class="btn btn-info btn-lg"><span class="glyphicon glyphicon-home"></span>&nbsp Halaman Utama</a>
+		<a href="http://ibgf.azurewebsites.net/index.php/person/send_email?id=<?php echo  $post->id; ?> &nama=<?php echo $post->nama; ?> &email=<?php echo $post->email; ?> " class="btn btn-success btn-lg"><span class="glyphicon glyphicon-download-alt"></span>&nbsp Cetak</a>
+		<a href="http://ibgf.azurewebsites.net/index.php/person/update_data_regis?id=<?php echo  $post->id; ?>" class="btn btn-warning btn-lg"><span class="glyphicon glyphicon-pencil"></span>&nbsp Edit</a>
+		<a href="http://ibgf.azurewebsites.net/index.php/main/home_page" class="btn btn-info btn-lg"><span class="glyphicon glyphicon-home"></span>&nbsp Halaman Utama</a>
 		<?php } ?>
 	</div>
 </body>
