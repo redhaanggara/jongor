@@ -34,7 +34,7 @@
 
          <div class="navbar-collapse  collapse">
             <ul class="nav navbar-nav">
-                <li><a href="http://localhost/master/person/get_pendaftar">Pendaftar</a></li>
+                <li><a href="http://ibgf.azurewebsites.net/index.php/person/get_pendaftar">Pendaftar</a></li>
                 <li class="active"><a href="#">Anggota</a></li>
             </ul>
 
