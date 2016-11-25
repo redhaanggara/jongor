@@ -16,7 +16,7 @@
 		<div class="container">
 		    <div class="alert alert-success fade in">
 		        <a href="#" class="close" data-dismiss="alert">&times;</a>
-		        <strong>Success!</strong> Your PDF fie has been sent to your email successfully.
+		        <strong>Success!</strong> Your PDF file has been sent successfully to your email <?php echo $email; ?> check and download in your inbox <p>.
 		        <a href=http://ibgf.azurewebsites.net/index.php/main/home_page" class="btn btn-primary" data-dismiss="alert">&nbsp <span class="glyphicon glyphicon-home"></span>&nbsp back to home</a>
 		    </div>
 		</div>
