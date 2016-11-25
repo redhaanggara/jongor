@@ -302,8 +302,8 @@ private $username; private $password; private $adm;
 	public function create_pdf(){
 
 		$id= $_GET['id'];
-		//$nama $_GET['nama'];
-		//$email= $_GET['email'];
+		$nama $_GET['nama'];
+		$email= $_GET['email'];
 
 		$data= $this->person->data_cetak($id);
 		
@@ -454,7 +454,7 @@ private $username; private $password; private $adm;
 			<meta http-equiv="Content-type" content="text/html"; charset="utf-8"/></head><body';
 
 		$message .= '<p>Dear my friend, &nbsp '. $nama  .' </p>';
-		$message .= 'Thanks for your participation On PBGF 2017 we so appreciate it, you can download your PDF file in this link<strong> <a target="_blank" href="http://ibgf.azurewebsites.net/index.php/person/send_email ?id=  '. $id .' &nama= '. $nama .' &email= '. $email .' "> Just Click </a></strong> after you download, Please print out and give it to our panitia';
+		$message .= 'Thanks for your participation On PBGF 2017 we so appreciate it, you can download your PDF file in this link<strong> <a target="_blank" href="http://ibgf.azurewebsites.net/index.php/person/create_pdf ?id=  '. $id .' &nama= '. $nama .' &email= '. $email .' "> Just Click </a></strong> after you download, Please print out and give it to our panitia';
 		$message .= 'Thank you,';
 		$message .= '<p>Enjoy my friend</p>';
 		$message .= '</body></html>';
