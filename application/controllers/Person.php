@@ -246,7 +246,7 @@ private $username; private $password; private $adm;
 	public function logout(){
 		$this->session->unset_userdata('admin');
 		$this->session->sess_destroy();
-		redirect('http://localhost/master/');
+		redirect('http://ibgf.azurewebsites.net');
 
 	}
 
