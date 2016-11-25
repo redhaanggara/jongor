@@ -58,12 +58,12 @@
 <br><br>
 
 	<div class="container">
-	<h3><a href="http://localhost/master/main/home_page"><span class="glyphicon glyphicon-arrow-left"></span>&nbsp Home Page</a></h3>
+	<h3><a href="http://ibgf.azurewebsites.net/index.php/main/home_page"><span class="glyphicon glyphicon-arrow-left"></span>&nbsp Home Page</a></h3>
 	<center><h2>Registrasi PBGF 2017</h2></center>
 		<div class="row">
 			<div class="control-group" id="fields">
 				<div class="controls">
-					<form role="form" autocomplete="off" action="http://localhost/master/person/insert_regis" method="post">
+					<form role="form" autocomplete="off" action="http://ibgf.azurewebsites.net/index.php/person/insert_regis" method="post">
 						<div class="form-group">
 							<label for="inputnama">Nama Lengkap</label>
 							<input type="text" name="nama" placeholder="Nama Legkap" class="form-control">
