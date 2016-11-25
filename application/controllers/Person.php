@@ -432,8 +432,8 @@ private $username; private $password; private $adm;
         $config = [
          'protocol'=> 'smtp',
          'smtp_host'=> 'smtp.mail.yahoo.com',
-         'smtp_user'=> 'redhabayuanggara@yahoo.co.id',
-         'smtp_pass'=> 'imthebest6537RH',
+         'smtp_user'=> 'ibgffasilkom@yahoo.com',
+         'smtp_pass'=> 'rizkyrendy2016',
          'smtp_port'=> '465',
          'smtp_crypto'=> 'ssl',
          'smtp_timeout'=> 180,
@@ -443,7 +443,7 @@ private $username; private $password; private $adm;
 
 		$this->email->initialize($config);
 
-		$this->email->from('redhabayuanggara@yahoo.co.id','IBGF Fasilkom');
+		$this->email->from('ibgffasilkom@yahoo.com','IBGF Fasilkom');
 		$this->email->to($email);
 	
 		
