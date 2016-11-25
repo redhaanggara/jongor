@@ -25,7 +25,7 @@ class Main extends CI_controller{
 	}
 
 	public function home_page(){
-		redirect('http://localhost/master/');
+		redirect('http://ibgf.azurewebsites.net');
 	}
 
 	public function page_register(){
