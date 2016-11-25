@@ -39,11 +39,11 @@
             <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
                 <li class="active"><a href="#">Pendaftar</a></li>
-                <li ><a href="http://localhost/master/person">Anggota</a></li>
+                <li ><a href="http://ibgf.azurewebsites.net/index.php/person">Anggota</a></li>
             </ul>
 
             <div class="nav navbar-nav navbar-right">
-                <li><a href="http://localhost/master/person/logout">Logout</a></li>
+                <li><a href=http://ibgf.azurewebsites.net/index.php/person/logout">Logout</a></li>
             </div>
         </div>
      </nav>
