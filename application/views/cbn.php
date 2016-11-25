@@ -18,13 +18,13 @@
 
 <br>
   <div class="container">
-  <h3><a href="http://localhost/master/main/home_page"><span class="glyphicon glyphicon-arrow-left"></span>&nbsp Home Page</a></h3>
+  <h3><a href="http://ibgf.azurewebsites.net/index.php/main/home_page"><span class="glyphicon glyphicon-arrow-left"></span>&nbsp Home Page</a></h3>
   <br>
   <legend>Admin Login</legend>
 
 <!-- Text input-->
 
-    <form class="form-horizontal" action="http://localhost/master/person/signin" method="post">
+    <form class="form-horizontal" action="http://ibgf.azurewebsites.net/index.php/person/signin" method="post">
     <fieldset>
     	<div class="form-gorup">
     		<label for="username" class="col-sm-2 control-label">User Name</label>
