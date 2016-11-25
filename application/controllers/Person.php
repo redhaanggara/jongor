@@ -302,8 +302,8 @@ private $username; private $password; private $adm;
 	public function create_pdf(){
 
 		$id= $_GET['id'];
-		$nama $_GET['nama'];
-		$email= $_GET['email'];
+		//$nama $_GET['nama'];
+		//$email= $_GET['email'];
 
 		$data= $this->person->data_cetak($id);
 		
