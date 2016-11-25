@@ -418,31 +418,31 @@
             <div data-p="141.75" style="display: none;">
                 <img data-u="image" src="assets/images/slider/2.jpg" />
                 <div class="carousel-caption">
-                  <h2><a href="http://localhost/master/main/page_register" class="btn btn-info btn-lg" role="button"><i class="fa fa-bullhorn">&nbsp Join On PBGF 2017</i></a></h2>
+                  <h2><a href="http://ibgf.azurewebsites.net/index.php/main/page_register" class="btn btn-info btn-lg" role="button"><i class="fa fa-bullhorn">&nbsp Join On PBGF 2017</i></a></h2>
                 </div>
             </div>
             <div data-p="141.75" style="display: none;">
                 <img data-u="image" src="assets/images/slider/3.jpg" />
                 <div class="carousel-caption">
-                  <h2><a href="http://localhost/master/main/page_register" class="btn btn-info btn-lg" role="button"><i class="fa fa-bullhorn">&nbsp Join On PBGF 2017</i></a></h2>
+                  <h2><a href="http://ibgf.azurewebsites.net/index.php/main/page_register" class="btn btn-info btn-lg" role="button"><i class="fa fa-bullhorn">&nbsp Join On PBGF 2017</i></a></h2>
                 </div>
             </div>
             <div data-p="141.75" style="display: none;">
                 <img data-u="image" src="assets/images/slider/4.jpg" />
                 <div class="carousel-caption">
-                  <h2><a href="http://localhost/master/main/page_register" class="btn btn-info btn-lg" role="button"><i class="fa fa-bullhorn">&nbsp Join On PBGF 2017</i></a></h2>
+                  <h2><a href="http://ibgf.azurewebsites.net/index.php/main/page_register" class="btn btn-info btn-lg" role="button"><i class="fa fa-bullhorn">&nbsp Join On PBGF 2017</i></a></h2>
                 </div>
             </div>
             <div data-p="141.75" style="display: none;">
                 <img data-u="image" src="assets/images/slider/5.JPEG" />
                 <div class="carousel-caption">
-                  <h2><a href="http://localhost/master/main/page_register" class="btn btn-info btn-lg" role="button"><i class="fa fa-bullhorn">&nbsp Join On PBGF 2017</i></a></h2>
+                  <h2><a href="http://ibgf.azurewebsites.net/index.php/main/page_register" class="btn btn-info btn-lg" role="button"><i class="fa fa-bullhorn">&nbsp Join On PBGF 2017</i></a></h2>
                 </div>
             </div>
             <div data-p="141.75" style="display: none;">
                 <img data-u="image" src="assets/images/slider/6.jpg" />
                 <div class="carousel-caption">
-                  <h2><a href="http://localhost/master/main/page_register" class="btn btn-info btn-lg" role="button"><i class="fa fa-bullhorn">&nbsp Join On PBGF 2017</i></a></h2>
+                  <h2><a href="http://ibgf.azurewebsites.net/index.php/main/page_register" class="btn btn-info btn-lg" role="button"><i class="fa fa-bullhorn">&nbsp Join On PBGF 2017</i></a></h2>
                 </div>
             </div>
         </div>
