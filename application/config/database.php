@@ -75,9 +75,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
+	'hostname' => 'us-cdbr-azure-southcentral-f.cloudapp.net',
+	'username' => 'bb1411971410ff',
+	'password' => '1bd9a62e',
 	'database' => 'bgf',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
