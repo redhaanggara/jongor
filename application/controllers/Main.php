@@ -28,10 +28,6 @@ class Main extends CI_controller{
 		redirect('http://ibgf.azurewebsites.net');
 	}
 
-	public function page_register(){
-		 $this->load->view('register_view');
-	}
-
 }
 
 ?>
